@@ -42,7 +42,16 @@ from .models import Student, StudentAdmin
 admin.site.register(Student, StudentAdmin)
 
 ```
-## OUTPUT
-![alt text](Screenshot_27-11-2025_1640_127.0.0.1-1.jpeg) ![alt text](Screenshot_27-11-2025_16334_127.0.0.1-1.jpeg) ![alt text](Screenshot_27-11-2025_16346_127.0.0.1-1.jpeg) ![alt text](Screenshot_27-11-2025_16413_127.0.0.1-1.jpeg)
+## Output
+
+![alt text](Screenshot_27-11-2025_1640_127.0.0.1.jpeg)
+
+![alt text](Screenshot_27-11-2025_16334_127.0.0.1.jpeg)
+
+![alt text](Screenshot_27-11-2025_16346_127.0.0.1.jpeg)
+
+![alt text](Screenshot_27-11-2025_16413_127.0.0.1.jpeg)
+
+
 
 Thus the program for creating car inventory database database using ORM hass been executed successfully
